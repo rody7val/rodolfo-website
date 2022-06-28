@@ -40,8 +40,7 @@
         </q-list>
       </q-scroll-area>
 
-      <div
-        class="absolute-top bg-primary contactSide">
+      <div class="absolute-top bg-primary contactSide">
         <div class="absolute-bottom q-pa-md">
           <q-avatar
             size="74px"
@@ -50,7 +49,7 @@
             <img src="~assets/avatar.jpg">
           </q-avatar>
           <div class="text-bold">Rodolfo Valguarnera</div>
-          <div>admin@rodolfo.website</div>
+          <div>ruthwolf@protonmail.com</div>
           <div>(+54)2923699363</div>
         </div>
       </div>
@@ -115,7 +114,7 @@ export default {
 }
 </script>
 
-<style lang="css">
+<style lang="css" exec>
   .absolute {
     position: absolute;
   }
@@ -133,7 +132,7 @@ export default {
     color: white;
     height: 180px;
   }
-  .avatarSlide{
+  .avatarSlide {
     box-shadow: 0 1px 5px #0003, 0 2px 2px #00000024, 0 3px 1px -2px #0000001f;
   }
 </style>

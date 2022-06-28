@@ -1,25 +1,19 @@
 <template>
   <q-page class="q-pa-md">
     <!--contacto-->
-    <div class="text-h6">
-      <span class="text-primary">📱</span> Datos de contacto
-    </div>
+    <div class="text-h6">Datos de contacto</div>
     <ul class="q-mt-none">
-      <li>admin@rodolfo.website</li>
+      <li>ruthwolf@protonmail.com</li>
       <li>(+54)2923699363</li>
       <li>rodolfo.website</li>
     </ul>
 
     <!--profesión-->
-    <div class="text-h6">‍
-      <span class="text-primary">💻</span> Profesiones
-    </div>
+    <div class="text-h6">‍Profesiones</div>
     <p class="q-ml-lg">Técnico Informático, Desarrollador JavaScript e Ingeniero DevOps.</p>
 
     <!--estudios-->
-    <div class="text-h6">‍
-      <span class="text-primary">📚</span> Estudios
-    </div>
+    <div class="text-h6">‍Estudios</div>
     <q-table
       :columns="columns"
       :rows="rows"
