@@ -1,7 +1,7 @@
 <template>
   <q-page class="q-pa-md">
     <!--contacto-->
-    <div class="text-h6">Datos de contacto</div>
+    <div class="text-h6">Contacto</div>
     <ul class="q-mt-none">
       <li>ruthwolf@protonmail.com</li>
       <li>(+54)2923699363</li>
@@ -26,7 +26,7 @@
       label="Descargar"
       color="primary"
       icon-right="file_download"
-      href="https://cloud.rodolfo.website/s/gk6rc6xCGDednac/download/cv.pdf"
+      href="http://cloud.rodolfo.website/s/8y6KXxny2KSxrw2/download/CV%20-%20Rodolfo%20Valguarnera.pdf"
       rel="noopener noreferrer"
       target="_blank"
     />

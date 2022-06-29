@@ -54,7 +54,7 @@
               flat
               dense
               color="primary"
-              href="tg://resolve?domian=rvalguarnera"
+              href="https://telegram.me/rvalguarnera"
               rel="noopener noreferrer"
               target="_blank"
             >
